@@ -1,0 +1,124 @@
+{
+  "drinks": [
+    {
+      "name": "Oleato™",
+      "imageUrl": "https://globalassets.starbucks.com/assets/3DB27F5E792C48E9B867A443AA648D26.jpg?impolicy=1by1_tight_288"
+    },
+    {
+      "name": "Hot Coffees",
+      "imageUrl": "https://globalassets.starbucks.com/assets/f12bc8af498d45ed92c5d6f1dac64062.jpg?impolicy=1by1_tight_288"
+    },
+    {
+      "name": "Hot Teas",
+      "imageUrl": "https://globalassets.starbucks.com/assets/2d52f16a22fb40ff898be1815ecc952e.jpg?impolicy=1by1_tight_288"
+    },
+    {
+      "id": 4,
+      "name": "Hot Drinks",
+      "imageUrl": "https://globalassets.starbucks.com/assets/677d276173ec4bc192c2b9a21776339f.jpg?impolicy=1by1_tight_288"
+    },
+    {
+      "id": 5,
+      "name": "Frappucino Blended Beverages",
+      "imageUrl": "https://globalassets.starbucks.com/assets/7FD73D3C93AF43FFA84400A42EFC9F87.jpg?impolicy=1by1_tight_288"
+    },
+    {
+      "id": 6,
+      "name": "Cold Coffees",
+      "imageUrl": "https://globalassets.starbucks.com/assets/3DB27F5E792C48E9B867A443AA648D26.jpg?impolicy=1by1_tight_288"
+    },
+    {
+      "id": 7,
+      "name": "Iced Teas",
+      "imageUrl": "https://globalassets.starbucks.com/assets/de6d02e888c74eac9f6ea19c5492b8e8.jpg?impolicy=1by1_tight_288"
+    },
+    {
+      "id": 8,
+      "name": "Cold Drinks",
+      "imageUrl": "https://globalassets.starbucks.com/assets/358b62402a844a3e9567d70a9790032f.jpg?impolicy=1by1_tight_288"
+    }
+  ],
+  "food": [
+    {
+      "id": 9,
+      "name": "Hot Breakfast",
+      "imageUrl": "https://globalassets.starbucks.com/assets/012cdfb74d294be28ca6604768408c4b.jpg?impolicy=1by1_tight_288"
+    },
+    {
+      "id": 10,
+      "name": "Oatmeal & Yogurt",
+      "imageUrl": "https://globalassets.starbucks.com/assets/D1FB41D7B2A646A6865E707D25FB9CBF.jpg?impolicy=1by1_tight_288"
+    },
+    {
+      "id": 11,
+      "name": "Bakery",
+      "imageUrl": "https://globalassets.starbucks.com/assets/2362e79aa0ab4c37a930956c67ab557a.jpg?impolicy=1by1_tight_288"
+    },
+    {
+      "id": 12,
+      "name": "Lunch",
+      "imageUrl": "https://globalassets.starbucks.com/assets/02ea801e3aca434fa2fcccfcd4adba8c.jpg?impolicy=1by1_tight_288"
+    },
+    {
+      "id": 13,
+      "name": "Snacks & Sweets",
+      "imageUrl": "https://globalassets.starbucks.com/assets/d76e82a4f5434f719083b3b2d03bf008.jpg?impolicy=1by1_tight_288"
+    }
+  ],
+  "home_coffee": [
+    {
+      "id": 14,
+      "name": "Whole Bean",
+      "imageUrl": "https://globalassets.starbucks.com/assets/E318F702B9F6464DAF0E710B13A18AFD.jpg?impolicy=1by1_tight_288"
+    },
+    {
+      "id": 15,
+      "name": "VIA instant®",
+      "imageUrl": "https://globalassets.starbucks.com/assets/713f533b151b4d4d92d76eddeb06d4a2.jpg?impolicy=1by1_tight_288"
+    }
+  ],
+  "merchandise": [
+    {
+      "id": 16,
+      "name": "Cold Cups",
+      "imageUrl": "https://globalassets.starbucks.com/assets/2F53599DD11F427CAA25B3A0D94B2AA6.jpg?impolicy=1by1_tight_288"
+    },
+    {
+      "id": 17,
+      "name": "Tumblers",
+      "imageUrl": "https://globalassets.starbucks.com/assets/fc26a4ccaf384086b701951d956b3ea8.jpg?impolicy=1by1_tight_288"
+    },
+    {
+      "id": 18,
+      "name": "Mugs",
+      "imageUrl": "https://globalassets.starbucks.com/assets/240ba4012d1447779f329e349720f374.jpg?impolicy=1by1_tight_288"
+    },
+    {
+      "id": 19,
+      "name": "Water Bottles",
+      "imageUrl": "https://globalassets.starbucks.com/assets/cbae1e06960c4bf2be4669ff9d1c68a9.jpg?impolicy=1by1_tight_288"
+    },
+    {
+      "id": 20,
+      "name": "Other",
+      "imageUrl": "https://globalassets.starbucks.com/assets/5814e3b108464af6bf3352e87576206b.jpg?impolicy=1by1_tight_288"
+    }
+  ],
+  "gift_cards": [
+    {
+      "id": 21,
+      "name": "Happy Birthday",
+      "imageUrl": "https://globalassets.starbucks.com/assets/834dfe8a5d1e4980b87636f4ff62f83a.jpg?impolicy=1by1_tight_288"
+    },
+    {
+      "id": 22,
+      "name": "Thank You",
+      "imageUrl": "https://globalassets.starbucks.com/assets/21ee04ff3a5340979275e3b9ffd2824d.jpg?impolicy=1by1_tight_288"
+    },
+    {
+      "id": 23,
+      "name": "Traditional",
+      "imageUrl": "https://globalassets.starbucks.com/assets/9e2617bd4b0744cb940c67b3fad9ca35.jpg?impolicy=1by1_tight_288"
+    }
+  ]
+}
